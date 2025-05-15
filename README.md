@@ -1,5 +1,9 @@
 # project 2
 
+
+Video of using app:
+
+________________________________________
 Casino Bank App
 
 A simple command-line Ruby application that allows users to create accounts, log in, manage a virtual bank balance, and play various casino games or perform paid writing tasks to earn money.
